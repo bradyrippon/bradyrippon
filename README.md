@@ -4,7 +4,7 @@
 Hello ✌️
 
 I am a Research Biostatistician at Weill Cornell Medicine. I am also the instructor for **Statistical Computing with SAS** at Columbia University's School of Public Health. Some of my current interests include:
-- 🖥️ R package development for ethical coding
+- 🖥️ R package development for reproducible coding
 - 🖥️ SAS macro development for easy data summaries
 - 🏀 Interactive visualizations for NBA data
 
